@@ -1,0 +1,179 @@
+*{
+    scroll-behavior: smooth;
+}
+body{
+    background-color:  #ffe6ff;
+    margin:0;
+}
+.plant-logo{
+    height: 80px;
+    position: relative;
+    left: 30px;
+}
+.nav-div{
+     background-color:#fff6f4;
+    box-shadow: 2px 0 10px 1px gray;
+    position: sticky;
+    top: 0;
+    z-index: 50;
+    padding-top: 5px;
+  
+}
+.nav-content{
+    position: relative;
+    left: 100px;
+    bottom: 30px;
+text-decoration: none;
+font-size: 20px;
+font-family: Arial, Helvetica, sans-serif;
+color:#66004d;
+}
+.parrent-1{
+    z-index: 50;
+}
+
+
+.main-info-plant{
+    display: flex;
+    margin-left: 50px;
+
+   
+}
+.Indore-plant-img-cont{
+    height: 370px;
+    width: 280px;
+    background-color:#e6ffe6;
+    border: 2px solid #009900;
+    border-radius: 15px;
+    margin: 15px;
+    padding: 5px;
+    margin-top: 50px;
+    
+}
+.indoore-plant-img{
+    height: 250px;
+    position: relative;
+    left: 15px;
+    border-radius: 10px; 
+    
+}
+.indoore-plant-img:hover{
+    height: 260px ;
+}
+.plant-name{
+   text-align: center;
+   font-size: 30px;
+}
+.name-{
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: underline;
+
+}
+.plant-info{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    margin-left: 90px;
+}
+.indoore-plant-info{
+    height: 370px;
+  width: 600px;
+  border-radius: 15px;
+  margin: 15px;
+  margin-left: 50px;
+  padding: 5px;
+  margin-top: 50px;
+  
+}
+.varity-of-plants{
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #66004d;
+    text-align: center;
+}
+.parent-div {
+
+}
+
+.main-div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.sub-div {
+    height: 450px;
+    width: 350px;
+    background-color:#e6ffe6;
+    border: 2px solid  #009900;
+    border-radius: 15px;
+    margin: 5px;
+    padding: 5px;
+    
+}
+.indoore-plants{
+    height: 300px;
+   
+    border-radius: 10px 10px 0 0;
+    position: relative;
+    left: 23px;
+
+}
+.indoore-plants:hover{
+    height: 310px;  
+}
+.plant{
+    position: relative;
+    left: 38px;
+}
+.plant-1{
+position: relative;
+left: 43px;
+}
+.contact-us{
+    height: 150px;
+    width: 350px;
+    background-color:#e6ffe6;
+    border: 2px solid  #009900;
+    border-radius: 15px;
+    margin: 5px;
+    padding: 5px;
+    position: relative;
+    margin-top: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.whatsapp-img{
+    height: 100px;
+    position: absolute;
+    left: 130px;
+    top: -50px;
+    background-color: #e6ffe6;
+    border-radius: 50%;
+    padding:5px; 
+}
+#contact-us{
+    text-align: center;
+    font-size: 40px;
+    color:  #66004d;
+}
+.call-now-btn{
+    font-size: 35px;
+    position: relative;
+    top: 80px;
+    left: 90px;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: #006600;
+    color: white;
+    border-radius: 10px;
+    border: none;
+   
+}
+.arrow{
+    position: relative;
+    left: 850px;
+}

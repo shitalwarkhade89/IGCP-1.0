@@ -1,0 +1,64 @@
+.nav-div{
+
+width: 1300px;;
+background-color: #f2f2f2;margin-left: 20px;
+
+}
+.nav-link{
+    text-align: center;
+    
+}
+.nursarylogo{
+    height: 60px;
+    padding-top: 10px;
+    padding-right: 10px;
+    
+}
+.main-img{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    height: 200px;
+    
+  }
+   
+
+.div-info{
+    width: 1300px;
+    background-color: #f2f2f2;
+
+}
+.paragraph{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.option{
+    width: 1300px;
+    background-color: #f2f2f2;
+}
+.info-para{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.cards{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+h1{
+    color: blue;
+    background-color: gray;
+}
+#nursery-name{
+    color:blueviolet;
+    font-size: 35px;
+    background-color:aquamarine;
+    text-align: center;
+}
+span{
+    background-color: lightgreen;
+    font-size: 20px;
+}
